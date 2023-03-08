@@ -4,3 +4,6 @@
 
 Version 1.5
 - Added new chatbot feature
+
+Version 2.0
+- Added two new screens
